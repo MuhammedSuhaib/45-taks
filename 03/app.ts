@@ -1,5 +1,5 @@
 
- let personName: string = "hannan";
+let personName: string = "hannan";
 let uppercase: string = personName.toUpperCase();
 let lowercase: string = personName.toLowerCase();
 let titlecase: string = personName.replace(/\b\w/g, c=> c.toUpperCase() );
