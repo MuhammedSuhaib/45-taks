@@ -1,3 +1,3 @@
-favouriteNum = 1
-myMessage = f"My favourite number is {favouriteNum}" 
+favouriteNum: int = 1
+myMessage: str  = f"My favourite number is {favouriteNum}" 
 print(myMessage)

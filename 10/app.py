@@ -12,7 +12,7 @@ print(16 / 2)
 # Date : 24 - Feb - 2024
 #Discription : In this program I am add and removing whitespaces
 
-Name1 = '\t  Hannan \n'
+Name1: str  = '\t  Hannan \n'
 print(Name1)
-strippedName= Name1.strip()
+strippedName: str = Name1.strip()
 print(strippedName)

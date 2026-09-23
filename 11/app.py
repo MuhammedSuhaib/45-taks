@@ -1,4 +1,4 @@
-Friends= ['Hannan' , 'Rayyan' ,'Subhan' ,'Azlan'];
+Friends:list[str] = ['Hannan' , 'Rayyan' ,'Subhan' ,'Azlan']
 print(Friends[0])
 print(Friends[1])
 print(Friends[2])

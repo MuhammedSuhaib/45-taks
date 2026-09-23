@@ -1,4 +1,4 @@
-Name1= '\t  Hannan \n'
+Name1: str = '\t  Hannan \n'
 print(Name1)
-strippedName= Name1.strip()
+strippedName: str = Name1.strip()
 print(strippedName)

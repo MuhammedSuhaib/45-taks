@@ -1,4 +1,4 @@
-GuestList = ["Subhan", "Hannan", "Rayyan"]
+GuestList:list[str]  = ["Subhan", "Hannan", "Rayyan"]
 for each_guest in GuestList:
     print(
         f''' Assalamu alaikum  "${each_guest}" 
